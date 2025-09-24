@@ -1,0 +1,189 @@
+[1758683361.611][INFO]: Starting ChromeDriver 140.0.7339.207 (17230b545fd18b35aad49122e5af97a463bc7a9c-refs/branch-heads/7339@{#2364}) on port 60905
+[1758683361.611][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1758683361.621][INFO]: ChromeDriver was started successfully on port 60905
+[1758683361.625][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] COMMAND InitSession {
+   "capabilities": {
+      "alwaysMatch": {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "extensions": [  ]
+         },
+         "pageLoadStrategy": "normal"
+      },
+      "firstMatch": [ {
+      } ]
+   }
+}
+[1758683361.625][INFO]: Browser search. Trying... /Users/swj_795/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.625][INFO]: Browser search. Trying... /Users/swj_795/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.625][INFO]: Browser search. Trying... /Users/swj_795/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/Google Chrome.app/Contents/MacOS/Google Chrome
+[1758683361.625][INFO]: Browser search. Trying... /Users/swj_795/.wdm/drivers/chromedriver/mac64/140.0.7339.207/chromedriver-mac-arm64/Chromium.app/Contents/MacOS/Chromium
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/.nvm/versions/node/v18.20.4/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/anaconda3/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.12/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/homebrew/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/homebrew/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.11/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.10/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /System/Cryptexes/App/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /usr/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Apple/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Applications/VMware Fusion.app/Contents/Public/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/Library/Application Support/JetBrains/Toolbox/scripts/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/.rvm/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Applications/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/homebrew/opt/mysql/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/.nvm/versions/node/v18.20.4/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/anaconda3/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.12/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/homebrew/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /opt/homebrew/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.11/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Frameworks/Python.framework/Versions/3.10/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /System/Cryptexes/App/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /usr/sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /sbin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Library/Apple/usr/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Applications/VMware Fusion.app/Contents/Public/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/Library/Application Support/JetBrains/Toolbox/scripts/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/.rvm/bin/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing
+[1758683361.627][INFO]: Browser search. Trying... /Users/swj_795/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[1758683361.627][INFO]: Browser search. Trying... /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[1758683361.627][INFO]: Browser search. Found at  /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+[1758683361.628][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1758683361.628][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1758683361.628][INFO]: ChromeDriver supports communication with Chrome via pipes. This is more reliable and more secure.
+[1758683361.628][INFO]: Use the --remote-debugging-pipe Chrome switch instead of the default --remote-debugging-port to enable this communication mode.
+[1758683361.628][INFO]: Launching chrome: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome --allow-pre-commit-input --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-logging --log-level=0 --no-first-run --no-service-autorun --password-store=basic --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir=/var/folders/jh/wlzb28_x2sz0l2lr0d8jzh5h0000gn/T/.org.chromium.Chromium.5OxbNJ data:,
+[1758683362.408][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1758683362.485][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": false,
+      "browserName": "chrome",
+      "browserVersion": "140.0.7339.208",
+      "chrome": {
+         "chromedriverVersion": "140.0.7339.207 (17230b545fd18b35aad49122e5af97a463bc7a9c-refs/branch-heads/7339@{#2364})",
+         "userDataDir": "/var/folders/jh/wlzb28_x2sz0l2lr0d8jzh5h0000gn/T/.org.chromium.Chromium.5OxbNJ"
+      },
+      "fedcm:accounts": true,
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:60914"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "mac",
+      "proxy": {
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:extension:credBlob": true,
+      "webauthn:extension:largeBlob": true,
+      "webauthn:extension:minPinLength": true,
+      "webauthn:extension:prf": true,
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "7f27a1c2937c1c3b20f674e5b36eebe2"
+}
+[1758683362.486][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] COMMAND Navigate {
+   "url": "https://www.baidu.com"
+}
+[1758683362.486][INFO]: Waiting for pending navigations...
+[1758683362.494][INFO]: Done waiting for pending navigations. Status: ok
+[1758683363.177][INFO]: Waiting for pending navigations...
+[1758683363.177][INFO]: Done waiting for pending navigations. Status: ok
+[1758683363.177][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] RESPONSE Navigate
+[1758683363.180][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] COMMAND GetTitle {
+}
+[1758683363.180][INFO]: Waiting for pending navigations...
+[1758683363.180][INFO]: Done waiting for pending navigations. Status: ok
+[1758683363.204][INFO]: Waiting for pending navigations...
+[1758683369.198][INFO]: Done waiting for pending navigations. Status: ok
+[1758683369.199][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] RESPONSE GetTitle "百度一下，你就知道"
+[1758683369.202][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] COMMAND Quit {
+}
+[1758683369.255][INFO]: [7f27a1c2937c1c3b20f674e5b36eebe2] RESPONSE Quit
