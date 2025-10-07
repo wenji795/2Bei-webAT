@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 #初始化浏览器时有两个关键参数：options 和 service
@@ -9,7 +9,7 @@ options = webdriver.ChromeOptions()
 # options.add_argument("--disable-gpu")  # 示例：禁用 GPU
 
 # 配置驱动服务
-service = Service(
+service = ChromeService(
     executable_path=ChromeDriverManager().install(),
     log_output="1.log"   # 将日志输出到文件
 )
