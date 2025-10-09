@@ -40,6 +40,19 @@ driver.get("file:///Users/swj_795/Desktop/%E5%8C%97%E6%A2%A6%E6%B5%8B/pagetest/%
 # prompt.dismiss()
 
 #操作滚动条
-
+js1 = "window.scrollTo({top:document.body.scrollHeight, behaviour:'smooth'});"
+driver.execute_script(js1)
+time.sleep(1)
+js2 = "window.scrollTo(0,0)"
+driver.execute_script(js2)
+time.sleep(1)
+js3 = "window.scrollTo(0,300)"
+driver.execute_script(js3)
+time.sleep(1)
+js4 = "window.scrollBy(0,-100)"
+driver.execute_script(js4)
+time.sleep(1)
+js5 = "window.scrollBy(0,1000000)"
+driver.execute_script(js5)
 #等待
 time.sleep(5)
