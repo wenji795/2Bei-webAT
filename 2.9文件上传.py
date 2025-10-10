@@ -11,7 +11,7 @@ from selenium.webdriver.support.select import Select
 driver = webdriver.Chrome(service=Service("/Users/swj_795/Desktop/chromedriver-mac-arm64/chromedriver"))
 
 #打开某个HTML页面
-# driver.get("file:///Users/swj_795/Desktop/%E5%8C%97%E6%A2%A6%E6%B5%8B/pagetest/%E6%B3%A8%E5%86%8CA.html")
+driver.get("file:///Users/swj_795/Desktop/%E5%8C%97%E6%A2%A6%E6%B5%8B/pagetest/%E6%B3%A8%E5%86%8CA.html")
 
 #核心操作
 el = driver.find_element(By.NAME, "upfilea")
