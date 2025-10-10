@@ -16,7 +16,7 @@ driver.get("file:///Users/swj_795/Desktop/%E5%8C%97%E6%A2%A6%E6%B5%8B/pagetest/%
 #核心操作
 el = driver.find_element(By.NAME, "upfilea")
 #获取绝对路径，相对路径会报错
-file_path = os.path.abspath("chromedrive.exe")#os是python内置的
+file_path = os.path.abspath("chromedriver.exe")#os是python内置的
 el.send_keys(file_path)
 
 # el.click()
