@@ -35,8 +35,18 @@ driver.get("file:///Users/swj_795/Desktop/%E5%8C%97%E6%A2%A6%E6%B5%8B/pagetest/%
 
 
 
+#封装
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
+def find(by, value):
+    wait = WebDriverWait(driver, 10)
+    locator = (by, value)
+    return wait.until(EC.presence_of_element_located(locator))
+
+
+find(By.XPATH, "//input[@placeholder='延时加载的输入框']").send_keys("adminadmin")
 
 #等待
 time.sleep(5)
